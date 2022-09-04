@@ -1,0 +1,15 @@
+E:\Dersler\MVC\Core_Bloq_Kamp\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+E:\Dersler\MVC\Core_Bloq_Kamp\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.json
+E:\Dersler\MVC\Core_Bloq_Kamp\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.dev.json
+E:\Dersler\MVC\Core_Bloq_Kamp\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+E:\Dersler\MVC\Core_Bloq_Kamp\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+E:\Dersler\MVC\Core_Bloq_Kamp\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+E:\Dersler\MVC\Core_Bloq_Kamp\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dersler\MVC\Core_Bloq_Kamp\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+E:\Dersler\MVC\Core_Bloq_Kamp\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+E:\Dersler\MVC\Core_Bloq_Kamp\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+E:\Dersler\MVC\Core_Bloq_Kamp\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+E:\Dersler\MVC\Core_Bloq_Kamp\EntityLayer\obj\Debug\net5.0\refint\EntityLayer.dll
+E:\Dersler\MVC\Core_Bloq_Kamp\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+E:\Dersler\MVC\Core_Bloq_Kamp\EntityLayer\obj\Debug\net5.0\EntityLayer.genruntimeconfig.cache
+E:\Dersler\MVC\Core_Bloq_Kamp\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
