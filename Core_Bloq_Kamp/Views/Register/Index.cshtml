@@ -1,0 +1,47 @@
+﻿@model EntityLayer.Concrete.Writer
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_MainView.cshtml";
+}
+
+
+@using (Html.BeginForm("Index", "Register", FormMethod.Post))
+{
+    <div class="container">
+        <h3 class="tittle">Qeydiyyat</h3>
+        <form action="#" method="post">
+
+            <div>
+                <label for="validationCustom01">Ad və soyad</label>
+                <input type="text" class="form-control" id="validationDefault01" name="WriterName" placeholder="">
+                <span class="text-danger" asp-validation-for="WriterName"></span>
+            </div>
+            <br />
+            <div>
+                <label for="validationCustom02">E-mail</label>
+                <input type="text" class="form-control" id="validationDefault02" name="WriterMail" placeholder="">
+                <span class="text-danger" asp-validation-for="WriterMail"></span>
+            </div>
+            <br />
+            <div>
+                <label for="exampleInputPassword1">Şifrə</label>
+                <input type="password" class="form-control" id="password1" name="WriterPassword" placeholder="">
+                <span class="text-danger" asp-validation-for="WriterPassword"></span>
+            </div>
+            <br />
+            <div>
+                <label for="exampleInputPassword2">Foto</label>
+                <input type="password" class="form-control" id="password2" name="WriterImage" placeholder="">
+                <span class="text-danger" asp-validation-for="WriterImage"></span>
+            </div>
+            <br />
+            <br>
+            <button type="submit" class="btn btn-primary submit mb-4">Qeydiyyatdan keç</button>
+            <p>
+                <a href="#">Qaydaları oxudum və mən qaydalarla razıyam.</a>
+            </p>
+        </form>
+    </div>
+}
+
+

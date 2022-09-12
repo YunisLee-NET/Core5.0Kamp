@@ -155,3 +155,13 @@ E:\Dersler\MVC\Core_Bloq_Kamp\Core_Bloq_Kamp\obj\Debug\net5.0\Razor\Views\Defaul
 E:\Dersler\MVC\Core_Bloq_Kamp\Core_Bloq_Kamp\obj\Debug\net5.0\Razor\Views\Comment\AddComment.cshtml.g.cs
 E:\Dersler\MVC\Core_Bloq_Kamp\Core_Bloq_Kamp\obj\Debug\net5.0\Razor\Views\Comment\ListCommentByBlog.cshtml.g.cs
 E:\Dersler\MVC\Core_Bloq_Kamp\Core_Bloq_Kamp\obj\Debug\net5.0\Razor\Views\Shared\Components\CommentList\Default.cshtml.g.cs
+E:\Dersler\MVC\Core_Bloq_Kamp\Core_Bloq_Kamp\bin\Debug\net5.0\FluentValidation.dll
+E:\Dersler\MVC\Core_Bloq_Kamp\Core_Bloq_Kamp\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+E:\Dersler\MVC\Core_Bloq_Kamp\Core_Bloq_Kamp\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\Dersler\MVC\Core_Bloq_Kamp\Core_Bloq_Kamp\obj\Debug\net5.0\Core_Bloq_Kamp.MvcApplicationPartsAssemblyInfo.cs
+E:\Dersler\MVC\Core_Bloq_Kamp\Core_Bloq_Kamp\obj\Debug\net5.0\Razor\Views\Shared\Components\Last5List\Default.cshtml.g.cs
+E:\Dersler\MVC\Core_Bloq_Kamp\Core_Bloq_Kamp\obj\Debug\net5.0\Razor\Views\ErrorPage\Error1.cshtml.g.cs
+E:\Dersler\MVC\Core_Bloq_Kamp\Core_Bloq_Kamp\obj\Debug\net5.0\Razor\Views\Contact\Index.cshtml.g.cs
+E:\Dersler\MVC\Core_Bloq_Kamp\Core_Bloq_Kamp\obj\Debug\net5.0\Razor\Views\Register\Index.cshtml.g.cs
+E:\Dersler\MVC\Core_Bloq_Kamp\Core_Bloq_Kamp\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+E:\Dersler\MVC\Core_Bloq_Kamp\Core_Bloq_Kamp\obj\Debug\net5.0\Razor\Views\Shared\Components\Last3Footer\Default.cshtml.g.cs

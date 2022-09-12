@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "rAotNWLIrQcAmO4HpfyoQ6ud81ArBfFau+fz0wJC0OoYWrRyoG/Npm1CvOqgQGyHJy/k9KtKyPZBa7PZASG22g==",
+  "dgSpecHash": "D3QmGVOI2SO5mVNOswvHW5dqetpT0HnsUIdjqlA7pMRhLCJrZPNrMvn0UvYVa6D7828WKkCCzUfemvxcRWHcDA==",
   "success": true,
   "projectFilePath": "E:\\Dersler\\MVC\\Core_Bloq_Kamp\\Core_Bloq_Kamp\\Core_Bloq_Kamp.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Yunisli Parviz\\.nuget\\packages\\fluentvalidation\\11.2.0\\fluentvalidation.11.2.0.nupkg.sha512",
+    "C:\\Users\\Yunisli Parviz\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.2.1\\fluentvalidation.aspnetcore.11.2.1.nupkg.sha512",
+    "C:\\Users\\Yunisli Parviz\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.2.0\\fluentvalidation.dependencyinjectionextensions.11.2.0.nupkg.sha512",
     "C:\\Users\\Yunisli Parviz\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Yunisli Parviz\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Yunisli Parviz\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
