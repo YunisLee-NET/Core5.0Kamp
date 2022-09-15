@@ -25,9 +25,9 @@
                 <th scope="row">@x.BlogID</th>
                 <td>@x.BlogTitle</td>
                 <td>@(((DateTime)x.BlogCreateDate).ToString("dd-MMM-yyyy"))</td>
-                <td>@x.CategoryID</td>
+                <td>@x.Category.CategoryName</td>
                 <td>@x.BlogStatus</td>
-                <td><a href="#" class="btn btn-success">Düzəliş</a></td>
+                <td><a href="/Default/BlogEdit/@x.BlogID" class="btn btn-success">Düzəliş</a></td>
                 <td><a href="/Default/DeleteBlog/@x.BlogID" class="btn btn-danger">Sil</a></td>
             </tr>
         }

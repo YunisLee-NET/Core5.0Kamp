@@ -169,3 +169,6 @@ E:\Dersler\MVC\Core_Bloq_Kamp\Core_Bloq_Kamp\obj\Debug\net5.0\Razor\Views\Shared
 E:\Dersler\MVC\Core_Bloq_Kamp\Core_Bloq_Kamp\obj\Debug\net5.0\Razor\Views\Admin\Index.cshtml.g.cs
 E:\Dersler\MVC\Core_Bloq_Kamp\Core_Bloq_Kamp\obj\Debug\net5.0\Razor\Views\Default\BlogListByWriter.cshtml.g.cs
 E:\Dersler\MVC\Core_Bloq_Kamp\Core_Bloq_Kamp\obj\Debug\net5.0\Razor\Views\Default\AddBlog.cshtml.g.cs
+E:\Dersler\MVC\Core_Bloq_Kamp\Core_Bloq_Kamp\obj\Debug\net5.0\Razor\Views\Default\BlogEdit.cshtml.g.cs
+E:\Dersler\MVC\Core_Bloq_Kamp\Core_Bloq_Kamp\obj\Debug\net5.0\Razor\Views\Dashboard\Index.cshtml.g.cs
+E:\Dersler\MVC\Core_Bloq_Kamp\Core_Bloq_Kamp\obj\Debug\net5.0\Razor\Views\Shared\Components\GetWriterInfoOnDashboard\Default.cshtml.g.cs
